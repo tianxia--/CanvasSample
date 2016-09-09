@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_inhale_down" android:title="下">下下</item>
+    <item android:id="@+id/menu_inhale_up" android:title="上">上</item>
+    <item android:id="@+id/menu_inhale_left" android:title="左">左</item>
+    <item android:id="@+id/menu_inhale_right" android:title="右" >右</item>
+</menu>
